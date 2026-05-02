@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__/
+*.py[cod]
+netflix_data.csv
+netflix_dashboard.png
